@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.venv/
+printers.db
+printers.db-shm
+printers.db-wal
